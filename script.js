@@ -43,3 +43,10 @@ document
     "click",
     messageHandler.displayMessage3.bind(messageHandler)
   );
+
+
+  const employee {
+    name: "Sally",
+    empNum: 156,
+    ft/pt: "full",
+  };
