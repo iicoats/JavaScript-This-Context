@@ -45,7 +45,7 @@ document
   );
 
 
-  const employee {
+  const employee = {
     name: "Sally",
     empNum: 156,
     ft/pt: "full",
